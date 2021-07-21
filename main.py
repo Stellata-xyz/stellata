@@ -25,8 +25,8 @@ if not client.connect():
 logging.debug(client.getHost(), client.getPort())
 
 # Geographic location
-latitude = '59:51:05.0'
-longitude = '17:37:30.0'
+#latitude = '59:51:05.0'
+#longitude = '17:37:30.0'
 
 
 # Script settings
